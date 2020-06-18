@@ -9,10 +9,10 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "renaud"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+#description: "Hi! </br>I love creating great products using software!"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -31,23 +31,19 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about/
-  - text: Style Guide
-    url: /style-guide/
-  - text: Tags
-    url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+    url: /about
+  - text: Blog
+    url: /blog
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
 
 # Colors
-accent_color: '#2d72d9'
+accent_color: '#4F83BF'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: "Powered by [Jekyll](hhttps://github.com/jekyll/jekyll) hosted on [Github](https://pages.github.com/).<br/>Renaud Boulard &copy;  2020, blog posts under [Creative commons](https://creativecommons.org/licenses/by-sa/3.0/)"
   has_social: true
 
 # Plugins
