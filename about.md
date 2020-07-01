@@ -9,9 +9,9 @@ layout: page
 
 Software engineer since 8+ years, I currently work at [Getaround](https://uk.getaround.com/) in the Product & Engineering team where I contribute to building a car-sharing service to change the way we use cars. I love building great products and being a team player. 
 
-I worked in various business area such as weather forecast, cartography, bank, payment, events management, medical and mobility. I enjoy sharing knowledge with my team and I had the opportunity to be a speaker at some local events and conferences.
+I have worked in various business area such as weather forecast, cartography, bank, payment, events management, medical and mobility and in different configuration for large companies, startups and also as a freelance. I enjoy sharing knowledge with my team and I had the opportunity to be a speaker at some local events and conferences.
 
-In recent years I focused more on mobile product and software development, but I am curious to work and learn on everything related to software and product developement.
+In recent years, I have focused my work on mobile product development, but I am curious to work and learn on everything related to software development, product development, team productivity and management.
 
 -------------
 ### Contact
@@ -31,7 +31,7 @@ Drivy was the largest car-sharing service in Europe, acquired by [Getaround for 
 #### Paylib at Worldline
 ![image-title-here](/assets/images/paylib.png)
 
-A mobile contactless (NFC) payment SDK branded as [Paylib](https://www.paylib.fr/paiement-sans-contact/) and integrated in banks apps such as BNP Paribas, Hello bank!, La Banque Postale, Société Générale, use by several millions of customers .
+A mobile contactless (NFC) payment SDK branded as [Paylib](https://www.paylib.fr/paiement-sans-contact/) and integrated in banks apps such as BNP Paribas, Hello bank!, La Banque Postale, Société Générale, apps used by several millions of customers .
 
 -------------
 
