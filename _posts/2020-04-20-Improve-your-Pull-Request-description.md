@@ -1,10 +1,13 @@
 ---
 layout: post
 title: "Improve your Pull Request description"
-description: "Pull Request description should be leveraged to help your reviewers"
-date: 2020-04-20
-feature_image: images/pr_review.png
-tags: [tips, work]
+description: "How can you improve the quality of your Pull Request description to better describe and explain your work to the person who is going to review your PR and what are the benefits?"
+tag:
+- software-development
+date: 2020-04-24 22:48
+image: images/pr_review.png
+headerImage: false
+category: blog
 ---
 
 How can you improve the quality of your Pull Request description to better describe and explain your work to the person who is going to review your PR and what are the benefits? 
@@ -15,7 +18,7 @@ A Pull Request is mainly composed of a **title**, a **description**, some **labe
 A PR without description it’s like throwing away a sheet of paper to your colleague without telling him a word on why you write this paper and what is the purpose of your work. He will have to figure out by himself without a clue. 
 It will be time consuming for him and it will require him extra effort that should have been done by you.
 
-![gif](images/pr_papers.gif)
+![gif](/assets/images/pr_papers.gif)
 
 Is it the image of you that you want to give to your colleagues? I suppose not.
 
@@ -48,7 +51,7 @@ If you have no issue to link, add the extra necessary information to understand 
 
 Your commit message and the code itself can explain a lot on how you tackle the issue, but some point like the architectural decision, external lib choice, the reason you implemented an API in a specific way, and a lot of other points can’t be explained only with code.
 
-You have to describe your work to your reviewer to give him the full context and help him to better understand your choices. You can make simple bullets points with the noticeable information, or a more detailed explanation. You can also point to some part of the code in your description to guide your reviewer through the changes.
+You have to describe your work to your reviewer to give him the full context and help him to better understand your choices. You can make simple bullets points with the noticeable information, or provide a more detailed explanations. You can also point out some part of the code in your description to guide your reviewer through the changes.
 
 Be careful, avoid repeating what the code does, well-written and named code should explain itself, but instead explain why you wrote the code the way you did it.
 

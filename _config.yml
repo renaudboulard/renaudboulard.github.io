@@ -1,67 +1,143 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# main text of home
+name: Renaud Boulard
+bio: Software engineer since 8+ years, I love building great products with the help of software development. On the Blog page you can find some posts I wrote on various topics mostly related to software developement and product development.
 
-# Site language
-lang: en-US
+# twitter summary info
+description: A blog about technology and stuff related
 
-# Site title
-title: "renaud"
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/profile.jpg
 
-# A description of your site for meta tag, search engine results.
-#description: "Hi! </br>I love creating great products using software!"
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: false
+resume-external: false
+resume-url: https://google.com/?q=my+resume
 
-# The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+url: https://sergiokopplin.github.io/indigo
+# your url: https://USERNAME.github.io
 
-# The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+permalink: /:title/
 
-# Favicon
-favicon: images/favicon.png
+# To enable google analytics, supply your token below
+# analytics-google: 'UA-MYANALYTICS'
 
-# Google Analytics id, e.g. "UA-NNNNNNNN-N"
-google_analytics: ""
+# To enable piwik tracking, supply your url & site ID below
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
 
-# Site navigation - each item must have a title and a url.
-navigation:
-  - text: Home
-    url: /
-  - text: About
-    url: /about
-  - text: Blog
-    url: /blog
+# if you don't want comments in your posts, leave categories empty
+disqus:
+  shortname: mydisqus # enter this from your disqus account
+  categories: #[blog, project]  only show disqus for posts that have these categories
 
-# The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+# if you don't have any of social below, comment the line
+#facebook: myfacebook
+twitter: _renaudb
+# instagram: myinstagram
+# pinterest: mypinterest
+linkedin: rboulard
+# youtube: myyoutube
+# spotify: myspotify
+# github: mygithub
+# gitlab: mygitlab
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+# medium: medium
+# vimeo: myvimeo
+# lanyrd: mylanyrd
+# email: boulard.renaud@gmail.com
 
-# Colors
-accent_color: '#4F83BF'
+authors:
+  johndoe:
+    name: John Doe
+    bio: A Man who travels the world eating noodles
+    external-image: false
+    picture: assets/images/profile.jpg
+    twitter: johndoe
+  jamesfoster:
+    name: James Foster
+    bio: A Man who develops software with coffee
+    external-image: false
+    picture: assets/images/james.jpg
+    twitter: jamesfoster
 
-# Site footer
-footer:
-  content: "Powered by [Jekyll](hhttps://github.com/jekyll/jekyll) hosted on [Github](https://pages.github.com/).<br/>Renaud Boulard &copy;  2020, blog posts under [Creative commons](https://creativecommons.org/licenses/by-sa/3.0/)"
-  has_social: true
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: normal
 
-# Plugins
+# if you do/don't need pagination, toggle 'enabled' between true/false below
+pagination:
+  enabled: false
+  sort_reverse: true # display recent posts first
+  title: ":title" # Changing this will mess up the header display logic
+  per_page: 5
+  permalink: "/:num/" # pagination link that will be appended
+
+# if you don't need projects, comment the *projects* configs below
+#projects: true
+
+# if you don't need "about" or "blog", comment them out below
+about: true
+blog: true
+
+# do you want to show the "read time" of the posts?
+read-time: true
+
+# do you want to show the "tags" inside the posts?
+show-tags: true
+
+# related posts inside a post?
+related: false
+
+# Display links for next and previous posts for the specified categories
+post-advance-links: [blog]
+
+# show author block at the end of a post ?
+show-author: false
+
+# do you want some animations?
+animation: true
+
+# add default values to specific pages or layouts
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+      layout: "post"
+    values:
+      # setting all post to not hidden by default,
+      # can be overridden in the front matter for a specific post
+      hidden: false
+
 plugins:
-  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-admin
+  - jekyll-paginate-v2
 
-# http://jekyllrb.com/docs/pagination/
-paginate: 3
-paginate_path: '/page:num/'
+jekyll-mentions:
+  base_url: https://github.com
 
+compress_html:
+  ignore:
+    envs:
+      - development
+      - stage
 
-# Permalinks
-permalink: /:title
-
-# Conversion
-markdown: kramdown
-
-# Sass
-sass:
-  sass_dir: _sass
-  style: compressed
+exclude:
+  [
+    "travis.sh",
+    "README.md",
+    "Gemfile",
+    "Gemfile.lock",
+    "FAQ.md",
+    "node_modules",
+    "vendor",
+  ]
