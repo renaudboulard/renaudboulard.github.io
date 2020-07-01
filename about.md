@@ -9,7 +9,7 @@ layout: page
 
 Software engineer since 8+ years, I currently work at [Getaround](https://uk.getaround.com/) in the Product & Engineering team where I contribute to building a car-sharing service to change the way we use cars. I love building great products and being a team player. 
 
-I worked in various business area such as weather forecast, cartography, bank, events management, medical or mobility. I enjoy sharing knowledge with my team and I had the opportunity to be a speaker at some local events and conferences.
+I worked in various business area such as weather forecast, cartography, bank, payment, events management, medical and mobility. I enjoy sharing knowledge with my team and I had the opportunity to be a speaker at some local events and conferences.
 
 In recent years I focused more on mobile product and software development, but I am curious to work and learn on everything related to software and product developement.
 
