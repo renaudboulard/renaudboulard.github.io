@@ -7,16 +7,16 @@ layout: page
 
 ### About me
 
-Software engineer since 8+ years, I currently work at [Getaround](https://uk.getaround.com/) in the Product & Engineering team where I contribute to building a car-sharing service to change the way we use cars. I love building great products and being a team player. 
+Software engineer since 8+ years, currently working at [Getaround](https://uk.getaround.com/) in the Product & Engineering team and contributing to build a car-sharing service to change the way we use cars. I love building great products and being a team player. 
 
-I have worked in various business area such as weather forecast, cartography, bank, payment, events management, medical and mobility and in different configuration for large companies, startups and also as a freelance. I enjoy sharing knowledge with my team and I had the opportunity to be a speaker at some local events and conferences.
+I have worked in various business areas such as weather forecast, cartography, bank, payment, events management, medical or mobility, and in differents configuration for large companie, startups, and also as a freelance. I enjoy sharing knowledge with my team and I had the opportunity to be a speaker at some conferences and local meetup.
 
-In recent years, I have focused my work on mobile product development, but I am curious to work and learn on everything related to software development, product development, team productivity and management.
+In recent years, I have focused my work on mobile product development, but I am curious to work and learn on everything related to software development, product development, team productivity, and management.
 
 -------------
 ### Contact
 
-If you want to learn more on my professional experiences you can have a look on my [Linkedin](https://www.linkedin.com/in/rboulard/) or you can contact me by [Twitter](https://twitter.com/_renaudb), [Linkedin](https://www.linkedin.com/in/rboulard/) or email at *boulard.renaud-at-gmail-dot-com*. I'm open to chat on topics related to dev/product/tech or new work opportunities, I will get back to you within 24 hours.
+If you want to learn more about my professional experience please have a look at my [Linkedin](https://www.linkedin.com/in/rboulard/) or reach me by [Twitter](https://twitter.com/_renaudb) or email at *boulard.renaud-at-gmail-dot-com*. I'm open to chat on topics related to dev/product/tech or new professionel opportunities, I will get back to you within 24 hours.
 
 -------------
 ### Some products I worked on:
@@ -31,7 +31,7 @@ Drivy was the largest car-sharing service in Europe, acquired by [Getaround for 
 #### Paylib at Worldline
 ![image-title-here](/assets/images/paylib.png)
 
-A mobile contactless (NFC) payment SDK branded as [Paylib](https://www.paylib.fr/paiement-sans-contact/) and integrated in banks apps such as BNP Paribas, Hello bank!, La Banque Postale, Société Générale, apps used by several millions of customers .
+A mobile contactless (NFC) payment SDK branded as [Paylib](https://www.paylib.fr/paiement-sans-contact/) and integrated in banks apps such as BNP Paribas, Hello bank!, La Banque Postale, Société Générale, these apps are used by several millions of customers.
 
 -------------
 
