@@ -11,7 +11,7 @@ Software engineer since 8+ years, currently working at [Getaround](https://uk.ge
 
 I have worked in various business areas such as weather forecast, cartography, bank, payment, events management, medical or mobility, and in differents configuration for large companies, startups, and also as a freelance. I enjoy sharing knowledge with my team and I had the opportunity to be a speaker at some conferences and local meetup.
 
-In recent years, I have focused my work on mobile product development, but I'm curious to work and learn on everything related to software development, product development, team productivity, and management.
+In recent years, I have focused my work on mobile product development, but I'm curious to work and learn on everything related to software development, product development, team productivity, and leadership.
 
 -------------
 ### Contact
