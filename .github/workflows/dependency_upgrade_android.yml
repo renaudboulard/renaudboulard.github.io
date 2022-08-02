@@ -20,7 +20,7 @@ jobs:
           body: |
             ### How
 
-            - [ ] Bump Facebook SDK to the [latest version](https://github.com/facebook/facebook-ios-sdk/releases)
+            - [ ] Bump Facebook SDK to the [latest version](https://github.com/facebook/facebook-android-sdk/releases)
             - [ ] Do code migration if required
             - [ ] Test : Staging and Production
           pinned: false
@@ -34,7 +34,7 @@ jobs:
           body: |
             ### How
 
-            - [ ] Bump Stripe SDK to the [latest version](https://github.com/stripe/stripe-ios/releases)
+            - [ ] Bump Stripe SDK to the [latest version](https://github.com/stripe/stripe-android/releases)
             - [ ] Do code migration if required
             - [ ] Test : Staging (and Production if there is lot of changes)
           pinned: false
@@ -48,7 +48,7 @@ jobs:
           body: |
             ### How
 
-            - [ ] Bump Onfido SDK to the [latest version](https://github.com/onfido/onfido-ios-sdk/releases)
+            - [ ] Bump Onfido SDK to the [latest version](https://github.com/onfido/onfido-android-sdk/releases)
             - [ ] Do code migration if required
             - [ ] Test : Staging
           pinned: false

@@ -16,7 +16,7 @@ In recent years, I have focused my work on mobile product development, but I'm c
 -------------
 ### Contact
 
-If you want to learn more about my professional experience please have a look at my [Linkedin](https://www.linkedin.com/in/rboulard/) or you can reach me by [Twitter](https://twitter.com/_renaudb) or email at *boulard.renaud-at-gmail-dot-com*. I'm open to chat on topics related to dev/product/tech or new professionel opportunities, I will get back to you within 24 hours.
+If you want to learn more about my professional experience please have a look at my [Linkedin](https://www.linkedin.com/in/rboulard/) or you can reach me by [Twitter](https://twitter.com/_renaudb) or email at *boulard.renaud-at-gmail-dot-com*. I'm open to chat on topics related to dev/product/tech or new professionel opportunities, I will get back to you within 48 hours.
 
 -------------
 ### Some products I worked on:
